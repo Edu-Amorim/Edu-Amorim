@@ -1,6 +1,6 @@
 ## Hello World, this is Eduardo Amorim  <img height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="Edu coding and chilling">
+<img width="80%" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="Me coding and chilling">
 
 <br/>
 
@@ -17,10 +17,10 @@
 ## &#x1f4c8; Check out my GitHub Stats
 <div>
   <a href="https://github.com/Edu-Amorim">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Edu-Amorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="My Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Amorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="My Stats"/>
 
 [//]: # (  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-Amorim&theme=dracula&hide_border=true"></a>&nbsp;)
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Amorim&layout=compact&langs_count=7&theme=dracula" alt="My languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Amorim&layout=compact&langs_count=7&theme=dracula" alt="My languages"/>
 
 </div>
 
