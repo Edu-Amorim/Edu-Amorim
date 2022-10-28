@@ -2,6 +2,8 @@
 
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="Edu coding and chilling">
 
+<br/>
+
 ## About Me
 
 ⚡ WebDev And Programmer-Analyst
@@ -10,16 +12,19 @@
 <br/>🌱 Lifelong learner
 <br/>🎵 Tropical House, Irish Rock, & lo-fi
 
-  ## &#x1f4c8; Check out my GitHub Stats
+  <br/>
+
+## &#x1f4c8; Check out my GitHub Stats
 <div>
   <a href="https://github.com/Edu-Amorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Amorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-Amorim&theme=dracula&hide_border=true"></a>&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Amorim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Amorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="My Stats"/>
+
+[//]: # (  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-Amorim&theme=dracula&hide_border=true"></a>&nbsp;)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Amorim&layout=compact&langs_count=7&theme=dracula" alt="My languages"/>
 
 </div>
 
-##
+<br/>
 
 ##  Tech Stacks & Tools
 
@@ -38,7 +43,9 @@
   <img align="right" alt="WorkStation" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="150">
 </div>
   
-  ##
+  <br/>
+
+## Social
   
 <div>
   <a href="https://www.linkedin.com/in/eduardo-amorim-811a6b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
